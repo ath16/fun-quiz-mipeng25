@@ -83,6 +83,7 @@ elif st.session_state.page == 'quiz':
                     use_container_width=True
                 )
     else:
+        st.balloons()
         st.success("Benar Sekali! Jawabanmu Tepat!", icon="✅")
         st.success(f"Jawaban yang benar adalah: **{correct_answer}**")
         st.button("Lanjut", on_click=next_question, use_container_width=True)
