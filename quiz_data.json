@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. Menurut materi, komputer itu paling mirip dengan apa?",
+        "options": ["A. Kotak musik 🎵", "B. \"Robot pintar\" yang jadi asisten kita 🤖", "C. Buku tulis elektronik 📝", "D. Kalkulator canggih 🧮"],
+        "answer": "B. \"Robot pintar\" yang jadi asisten kita 🤖"
+    },
+    {
+        "question": "2. Saat kamu mengetik namamu di keyboard untuk login ke game, kegiatan itu disebut...",
+        "options": ["A. Output (Hasil)", "B. Proses (Mikir)", "C. Input (Memberi Perintah)", "D. Algoritma"],
+        "answer": "C. Input (Memberi Perintah)"
+    },
+    {
+        "question": "3. Manakah yang merupakan contoh sebuah \"algoritma\" dalam kehidupan sehari-hari?",
+        "options": ["A. Merasa ngantuk saat belajar", "B. Langkah-langkah membuat susu cokelat", "C. Punya ide mau menggambar apa", "D. Menonton film kesukaan"],
+        "answer": "B. Langkah-langkah membuat susu cokelat"
+    },
+    {
+        "question": "4. Dalam bahasa Python, \"mantra\" atau perintah apa yang kita gunakan untuk menyuruh komputer menampilkan tulisan di layar?",
+        "options": ["A. tulis()", "B. show()", "C. print()", "D. simpan()"],
+        "answer": "C. print()"
+    },
+    {
+        "question": "5. Manakah penulisan perintah yang BENAR untuk membuat komputer menampilkan nama kamu, misalnya \"Budi\"?",
+        "options": ["A. print(Budi)", "B. print(\"Budi\")", "C. Tampilkan \"Budi\"", "D. print[\"Budi\"]"],
+        "answer": "B. print(\"Budi\")"
+    },
+    {
+        "question": "6. Simbol apa yang kita gunakan untuk perkalian di dalam Python?",
+        "options": ["A. x (huruf x)", "B. * (simbol bintang)", "C. : (simbol titik dua)", "D. + (simbol tambah)"],
+        "answer": "B. * (simbol bintang)"
+    },
+    {
+        "question": "7. Jika Budi punya 10 kelereng dan dia memberikan 3 kelereng kepada Ani, perintah Python yang benar untuk menghitung sisa kelereng Budi adalah...",
+        "options": ["A. print(10 x 3)", "B. print(\"10 - 3\")", "C. print(10 - 3)", "D. print(10 / 3)"],
+        "answer": "C. print(10 - 3)"
+    },
+    {
+        "question": "8. Apa hasil yang akan ditampilkan oleh komputer jika kita menjalankan perintah print(2 + 5 * 2)? (Ingat, kerjakan perkalian dulu!)",
+        "options": ["A. 14", "B. 12", "C. 9", "D. 20"],
+        "answer": "B. 12"
+    },
+    {
+        "question": "9. Proses menerjemahkan perintah kita menjadi bahasa yang dimengerti komputer disebut...",
+        "options": ["A. Pemrograman", "B. Penerjemahan", "C. Percakapan", "D. Mengetik"],
+        "answer": "A. Pemrograman"
+    },
+    {
+        "question": "10. Kenapa belajar Python itu seru untuk pemula?",
+        "options": ["A. Karena kodenya sangat panjang dan rumit", "B. Karena bahasanya mudah dibaca, mirip kalimat biasa", "C. Karena hanya bisa dipakai untuk membuat kalkulator", "D. Karena punya nama seperti ular"],
+        "answer": "B. Karena bahasanya mudah dibaca, mirip kalimat biasa"
+    }
+]
